@@ -1,62 +1,30 @@
-# 👋 Hi, I'm Amaan Ur Raheman Shaikh
+<h1 align="center">Hi 👋, I'm Amaan ur Raheman Shaikh</h1>
+<h3 align="center">A passionate 💻 Software Engineer | 💡 Full Stack Developer | 🚀 Tech Enthusiast</h3>
 
-### 💻 Software Engineer | 💡 Full Stack Developer | 🚀 Tech Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan-ur-raheman&label=Profile%20views&color=0e75b6&style=flat" alt="amaan-ur-raheman" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaan-ur-raheman" alt="amaan-ur-raheman" /></a> </p>
 
-### 🧑‍💻 About Me
+- 🌱 I’m currently learning **Springboot and DevOps with Docker & Kubernetes**
 
-- 🔭 I’m currently working on: **[Artistly.com](https://example.com)** – A full-stack artist booking platform.
-- 🌱 I’m learning: **Advanced React Patterns, GraphQL, and DevOps with Docker & Kubernetes.**
-- 💬 Ask me about: React, Node.js, Next.js, Firebase, APIs, Tailwind CSS, and building scalable web apps.
-- 📫 How to reach me: [amaan.shaikh@email.com](mailto:amaan.shaikh@email.com)
-- ⚡ Fun fact: I debug with 🍕 and solve problems with ☕!
+- 👨‍💻 All of my projects are available at [https://github.com/amaan-ur-raheman/](https://github.com/amaan-ur-raheman/)
 
----
+- 💬 Ask me about **Python, JavaScript, TypeScript, HTML, CSS, React, React Native**
 
-### 🛠️ Tech Stack
+- 📫 How to reach me **amaanurrahemanshaikh@gmail.com**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- ⚡ Fun fact **I debug with 🍕 and solve problems with ☕!**
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaan-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-dev&theme=tokyonight" alt="GitHub Streak" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amaan-ur-raheman-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan-ur-raheman-shaikh" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 📂 Projects & Repositories
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaan-ur-raheman&show_icons=true&locale=en&layout=compact" alt="amaan-ur-raheman" /></p>
 
-Here are some highlights from my work:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaan-ur-raheman&show_icons=true&locale=en" alt="amaan-ur-raheman" /></p>
 
-- 🚀 [Artistly.com](https://github.com/amaan-dev/artistly) – Full-stack artist booking platform (React + Next.js + Firebase)
-- 📦 [Portfolio Website](https://github.com/amaan-dev/portfolio) – Personal portfolio with React, TailwindCSS, and Framer Motion
-- 🧩 [JavaScript Playground](https://github.com/amaan-dev/js-dsa) – DSA problems and JS utilities
-- 🧪 [React Components Library](https://github.com/amaan-dev/react-ui-lib) – Custom reusable UI components
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-shaikh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/amaan_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox-browser&logoColor=white)](https://amaan-dev.vercel.app)
-
----
-
-> 💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-ur-raheman&" alt="amaan-ur-raheman" /></p>
