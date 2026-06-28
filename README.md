@@ -1,24 +1,167 @@
-# 💫 About Me:
-🌱 Currently exploring Spring Boot, microservices, and DevOps with Docker, Kubernetes, and CI/CD.​​<br>👨‍💻 I build and ship full-stack and AI-powered apps; all my projects live at: https://github.com/amaan-ur-raheman/.​<br>💬 Ask me about Python, JavaScript, TypeScript, HTML, CSS, React, React Native, Next.js, and REST API development.​<br>📫 Reach me at: amaanurrahemanshaikh@gmail.com.​<br>⚡ Fun fact: I debug with 🍕, power problem-solving with ☕, and prototype features at 2 AM.​
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaanurraheman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-ur-raheman-shaikh-215768281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanurrahemanshaikh@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amaan-ur-raheman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amaan-ur-raheman&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-ur-raheman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amaan-ur-raheman&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <h1>Amaan Ur Raheman Shaikh</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=560&lines=Full-Stack+%26+AI+Engineer;Building+Agentic+Dev+Tools;WebContainers+%2B+LLMs+%2B+Rust" alt="Typing SVG" />
+  </a>
+  <p>
+    I build production-grade software at the intersection of AI and developer tooling —<br>
+    autonomous coding agents, in-browser dev environments, and serverless inference APIs.<br>
+    Final-year CS student at JNEC, actively looking for SWE & AI engineering internships.
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amaan-ur-raheman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages & Core</strong><br><br>
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frameworks & Libraries</strong><br><br>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Tauri-FFC107?style=flat-square&logo=tauri&logoColor=black" alt="Tauri" />
+      <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Databases & ORMs</strong><br><br>
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Infrastructure & AI</strong><br><br>
+      <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Modal-000000?style=flat-square" alt="Modal" />
+      <img src="https://img.shields.io/badge/Inngest-000000?style=flat-square" alt="Inngest" />
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌙 Nightcode</h4>
+      <p>A terminal-native AI coding assistant powered by NVIDIA NIM. Chat, plan, and build from the terminal with streaming AI responses, file tools, bash execution, MCP server support, and autonomous subagents.</p>
+      <code>TypeScript</code> <code>Bun</code> <code>NVIDIA NIM</code> <code>MCP</code> <code>CLI</code>
+      <br><br>
+      <a href="https://github.com/amaan-ur-raheman/nightcode"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌌 Polaris</h4>
+      <p>An AI-powered full-stack development environment that runs entirely in the browser. Features multi-model AI code generation, live preview via WebContainers, and real-time Convex synchronization.</p>
+      <code>Next.js</code> <code>TypeScript</code> <code>WebContainers</code> <code>Convex</code> <code>Inngest</code>
+      <br><br>
+      <a href="https://github.com/amaan-ur-raheman/polaris"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Nightbase</h4>
+      <p>An autonomous AI coding agent that turns natural language into production-ready pull requests. Explores your codebase, writes code, runs tests, and opens PRs — entirely hands-free.</p>
+      <code>TypeScript</code> <code>GitHub API</code> <code>LLM Agent</code> <code>RAG</code>
+      <br><br>
+      <a href="https://github.com/amaan-ur-raheman/nightbase"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕵️ CodeSheriff</h4>
+      <p>Automated GitHub App for pull-request code review. Listens to repo webhooks, runs diffs through RAG pipelines with Pinecone, and posts inline AI-generated suggestions directly on PRs.</p>
+      <code>Next.js</code> <code>Prisma</code> <code>Inngest</code> <code>Pinecone</code> <code>RAG</code>
+      <br><br>
+      <a href="https://github.com/amaan-ur-raheman/codesheriff"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+      <a href="https://codesheriff.amaanurraheman.qzz.io"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=flat-square" alt="Live Demo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎙️ Resonance</h4>
+      <p>AI-powered TTS and voice cloning platform. Transforms text into natural speech and clones voices from audio samples using Chatterbox TTS on Modal GPU — zero cold-start architecture.</p>
+      <code>TypeScript</code> <code>Python</code> <code>Modal</code> <code>Chatterbox TTS</code> <code>Next.js</code>
+      <br><br>
+      <a href="https://github.com/amaan-ur-raheman/resonance"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Nodebase</h4>
+      <p>Visual workflow automation platform — think n8n, but built from scratch. Drag-and-drop interface with native integrations for Anthropic, OpenAI, Gemini, Discord, Slack, and more.</p>
+      <code>TypeScript</code> <code>React Flow</code> <code>Anthropic</code> <code>OpenAI</code> <code>Slack</code>
+      <br><br>
+      <a href="https://github.com/amaan-ur-raheman/nodebase"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=amaan-ur-raheman&show_icons=true&count_private=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=6b7280&bg_color=00000000" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-ur-raheman&layout=compact&hide_border=true&title_color=38B2AC&text_color=6b7280&bg_color=00000000" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-ur-raheman&bg_color=00000000&color=38B2AC&line=38B2AC&point=38B2AC&area=true&area_color=38B2AC&hide_border=true" width="100%" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ What I'm Building Now
+
+- 🕵️ **CodeSheriff** — Enhancing PR review workflows with advanced sandbox evaluations and multi-file code RAG pipelines
+- 🌙 **Nightcode v2** — Adding persistent memory, better subagent coordination, and local model support
+- 📬 **Open to opportunities** — SWE, full-stack, React Native, and AI/ML engineering internships
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+</p>
+
+---
+
+## 📬 Connect
+
+<p>
+  <a href="https://linkedin.com/in/amaan-ur-raheman-shaikh-215768281">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://amaanurraheman.qzz.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:amaanurrahemanshaikh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
